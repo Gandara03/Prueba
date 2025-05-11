@@ -1,12 +1,4 @@
 "use client";
-
-import Link from "next/link"
-import { Search } from "lucide-react"
-import { useState, useEffect } from "react"
-import { Button } from "@/components/ui/button"
-import { Input } from "@/components/ui/input"
-// ... el resto del código
-
 import Link from "next/link"
 import { Search } from "lucide-react"
 import { useState, useEffect } from "react"
